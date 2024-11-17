@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello from Nginx container!"
+echo "Pushing object: $1"
